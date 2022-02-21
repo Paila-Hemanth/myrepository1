@@ -1,3 +1,9 @@
 a=10
 b=9
-print(a+b)
+sum1=a+b
+product=a*b
+div=b/a
+sub1=a-b
+print(sum1)
+print(sub1)
+print(product)
